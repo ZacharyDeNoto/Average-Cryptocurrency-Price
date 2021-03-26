@@ -133,7 +133,7 @@ try:
 
     #sends a success text
     message = client.messages.create(
-        to="+15856838068",
+        to="+15555555555",
         from_="+12563872257",
         body="DSC-540 Final Project Worked!")
 
